@@ -1,8 +1,7 @@
-# web-dev-template
+Hello! I am a senior at Northeastern University and I am currently working on coop at the Red Sox. I haven't done too much with web dev in the past so this course will be very helpful for me.
 
-1. git clone https://github.com/jannunzi/web-dev-template.git
-1. cd web-dev-template
-1. npm install
-1. mongod
-1. node server.js
-1. browse to localhost:3000
+This repo's purpose is to track/host all of my class work for web dev.
+
+Link to Heroku base:
+Link to Assignment landing page:
+Link to Project landing page:
